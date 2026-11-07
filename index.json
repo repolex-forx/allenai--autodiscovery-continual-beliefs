@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "autodiscovery-continual-beliefs",
+  "versions": [
+    {
+      "commit": "7962443f239f3a77cb6176b1e677afc828891ee9",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:58:12.248084+00:00"
+    }
+  ]
+}
