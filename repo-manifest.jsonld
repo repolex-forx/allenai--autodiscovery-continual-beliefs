@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/autodiscovery-continual-beliefs/commit/7962443f239f3a77cb6176b1e677afc828891ee9",
       "git:hexsha": "7962443f239f3a77cb6176b1e677afc828891ee9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
